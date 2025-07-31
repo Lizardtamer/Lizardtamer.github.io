@@ -19,7 +19,6 @@ Git was specifically the most difficult thing in the short term, but I get it no
 GitHub is a website where you can build coding repositories. **Repositories** are storage spaces for coding. What's cool about the GitHub repos are that it offers the ability for **version control** and **branching**
 
 >Version control: system to record file changes overtime incase you gotta rewind cause something is goofy now.
-
 >Branching: you basically make a copy of a repo that you can make changes to that doesn't affect the main timeline. It's used to experiment and test. And when you're ready, you can actually merge the branch back into the main repo.
 
 Basically, you need to download the repo and then you can make the changes to the files and then reupload the files back into GitHub. The way you do this is either coding with Git and going through this whole rigamarole of typing a bunch of code, and it's a bit inefficient.
