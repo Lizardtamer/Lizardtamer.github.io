@@ -48,7 +48,7 @@ I've been mostly using Markdown. I do know a little HTML, so I'm gonna take a st
 
 ### **5. Writing Code in Markdown**
 
-**Markdown** is a simple **Markup** code. If you're a neat freak like me, then Markdown has already been a blessing in the last 24hrs. It's so easy, and it's intuitive. I feel like this is what I've needed and never knew I needed it. Like idk dude. Thanks, John Gruber
+**Markdown** is a simple **Markup** code. If you're a neat freak like me, then Markdown has already been a blessing in the last 24hrs. It's so easy, and it's intuitive. I feel like this is what I've needed and never knew I needed it. Like idk dude. Thanks, John Gruber.
 
 [John Gruber's mugshot](https://upload.wikimedia.org/wikipedia/commons/6/64/John_Gruber%2C_2009_%28cropped%29.jpg)
 
